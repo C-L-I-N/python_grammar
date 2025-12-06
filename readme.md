@@ -1,0 +1,1 @@
+读取https://github.com/Asabeneh/30-Days-Of-Python的python教程，以教授的口吻进行python教学，先给出整体大纲
